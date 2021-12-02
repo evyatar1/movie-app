@@ -1,6 +1,6 @@
 import React from 'react';
 
-function AddFavorites(){
+function AddFavourites(){
   return (
       <>
        <span className="mr-2">Add to Favorites</span>
@@ -15,4 +15,4 @@ function AddFavorites(){
   );
 }
 
-export default AddFavorites;
+export default AddFavourites;
